@@ -1,0 +1,16 @@
+body{font-family:Sora,sans-serif;background:#e7e7e7}
+.d3-chart{width:100%;min-height:600px;border:1px solid gray}
+.view-link{fill:#0094ff;font-size:16px;font-weight:700}
+.link{stroke:#b0c4de;stroke-width:1px}
+.linkselected{fill:none;stroke:tomato;stroke-width:2px}
+.node{cursor:pointer}.percentage{fill:#fff}
+.node-rect-closed{stroke-width:.5px;stroke:#c8bdbd}
+.kra-value{fill:grey}
+.node circle{stroke-width:3px;fill:#fff;stroke:#4682b4}
+.node.fill{fill:#b0c4de}
+.node text{font-family:sans-serif}
+.link{fill:none;stroke:#ccc;stroke-width:2px}
+.precise-link{fill:none;stroke:red;stroke-width:1px;stroke-dasharray:5,5}
+.kra{border-bottom:1px solid #ccc;padding-top:5px;padding-bottom:5px}
+.objective{margin-bottom:5px}
+.wrapper {border: 1px solid #c8bdbd;}
